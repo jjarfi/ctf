@@ -1,0 +1,26 @@
+Host:                 192.168.43.91
+Host raw:             192.168.43.91
+Name:                 PHPSESSID
+Name raw:             PHPSESSID
+Path:                 /
+Path raw:             /
+Content:              6gl9ipds77ckoi4pqm7l33bbj1
+Content raw:          6gl9ipds77ckoi4pqm7l33bbj1
+Expires:              At end of session
+Expires raw:          0
+Send for:             Any type of connection
+Send for raw:         false
+Created:              Sat Mar 24 19:00:01 2018
+Created raw:          1521918000891206
+Last accessed:        Sat Mar 24 21:01:26 2018
+Last accessed raw:    1521925285963624
+HTTP only:            No
+HTTP only raw:        false
+This domain only:     No
+This domain only raw: false
+Policy:               no information available
+Policy raw:           0
+Status:               no information available
+Status raw:           0
+originAttributes:     {"addonId":"","appId":0,"firstPartyDomain":"","inIsolatedMozBrowser":false,"privateBrowsingId":0,"userContextId":0}
+---

